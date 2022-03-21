@@ -23,7 +23,7 @@ header {
     position: relative;
     display: flex;
     flex-direction: column;
-    background: url(header/c.jpg);
+    background: url(header/gurun.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -47,21 +47,21 @@ nav,
 }
 
 .logo a {
-    color: #ffffff;
+    color: 	#000000;
     font-size: 2rem;
 }
 
 .btn-sign-up {
     padding: 0.7rem 2rem;
     background: #000000;
-    color: #ffffff;
+    color: 	#000000;
     font-weight: 500;
     border-radius: 50px;
 }
 
 .btn-sign-up {
-    background: #ffffff;
-    color: #000000;
+    background: #000000;
+    color: #ffff;
 }
 
 .header-title {
